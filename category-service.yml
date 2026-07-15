@@ -5,7 +5,7 @@ spring:
   application:
     name: Category
   datasource:
-    url: jdbc:mysql://categorydb-docker:3306/category_db?useSSL=false&serverTimezone=UTC
+    url: jdbc:mysql://categorydb-docker:3307/category_db?useSSL=false&serverTimezone=UTC
     username: root
     password: rootroot
     driver-class-name: com.mysql.cj.jdbc.Driver
